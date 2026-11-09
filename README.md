@@ -9,5 +9,3 @@
 - 👯 I’m looking to collaborate on projects that require mobile applications or insights.
 - 🤔 I’m looking for help with landing flutter/mobile application development jobs
 - 💬 Ask me about my hobbies. :D
-
-- ⚡ Fun fact: I don't really know how to use AI in my development, I guess I just vibe code. XD
